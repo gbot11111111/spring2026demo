@@ -1,22 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
-
 html, body {
   margin: 0;
   padding: 0;
-  color: white; /* Added some CSS to make my text white */
-  background-color: black; /* CSS to make the bg black*/
-  font-family: 'ZCOOL XiaoWei', serif;
+  text-align: center;
 }
 
 canvas {
-  margin: auto; /* add the margin to center your canvas*/
+  margin: auto;
   display: block;
-}
-
-h1 {
-  text-align: center; /* Some CSS to center the text */
-}
-
-p {
-  text-align: center;
 }
